@@ -12,7 +12,7 @@ I'm a passionate Full Stack Developer with expertise in building robust applicat
 ## 🌐 LinkedIn
 Connect with me on [LinkedIn](https://www.linkedin.com/in/suhail-abdul-azeez-profile) to stay updated on my professional journey.
 
-Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions!
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions !
 
 
 
