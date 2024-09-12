@@ -5,9 +5,14 @@ I'm a passionate Full Stack Developer with expertise in building robust applicat
 ## 💻 Skills
 - **MongoDB:** Efficient in designing and managing NoSQL databases.
 - **Node.js:** Proficient in backend development using Node.js.
+- **React.js:** Proficient in frontend development using React.js.
+- **Microservices:** Experienced in designing and building microservices-based applications.
+- **Docker:** Skilled in containerizing applications and managing containerized environments using Docker.
+- **Kubernetes:** Proficient in orchestrating and managing containerized applications using Kubernetes for scalable and efficient deployments.
 - **UI/UX:** Skilled in creating intuitive and visually appealing user interfaces.
-- **Testing:** Experienced in implementing testing strategies for reliable software.
 - **AWS Cloud:** Knowledgeable in deploying and managing applications on Amazon Web Services.
+- **Testing:** Experienced in implementing testing strategies for reliable software.
+
 
 ## 🌐 LinkedIn
 Connect with me on [LinkedIn](https://www.linkedin.com/in/suhail-abdul-azeez-profile) to stay updated on my professional journey.
