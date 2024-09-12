@@ -9,10 +9,10 @@ I'm a passionate Full Stack Developer with expertise in building robust applicat
 - **Microservices:** Experienced in designing and building microservices-based applications.
 - **Docker:** Skilled in containerizing applications and managing containerized environments using Docker.
 - **Kubernetes:** Proficient in orchestrating and managing containerized applications using Kubernetes.
-- **Git:** Experienced in version control and collaborative development workflows using Git for efficient code management and branching strategies.
 - **UI/UX:** Skilled in creating intuitive and visually appealing user interfaces.
 - **AWS Cloud:** Knowledgeable in deploying and managing applications on Amazon Web Services.
 - **Testing:** Experienced in implementing testing strategies for reliable software.
+- **Git:** Experienced in version control and collaborative development workflows using Git for efficient code management and branching strategies.
 
 
 ## 🌐 LinkedIn
